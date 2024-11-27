@@ -1,0 +1,138 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-size: cover;
+    margin: 0px;
+}
+
+main {
+    margin: 88px 80px;
+}
+
+img {
+    border-radius: 28px;
+    max-width: 100%;
+    height: auto;
+    padding: 0px;
+    margin-left: -20px;
+}
+
+h1, h2, h3 {
+    margin: 0px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 4px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+    color: #333333;
+    margin-top: 4px;
+}
+ ol > li {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#lista ol {
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+}
+
+::marker, ul {
+    color: #000000;
+    list-style-type: disc;
+    padding-inline-start: 0px;
+    padding-left: 20px;
+}
+
+.primeiro {
+    color: #D9D9D9;
+    margin-bottom: 64px;
+}
+
+.segundo {
+    color: #D9D9D9;
+    margin: 40px 0px;
+}
+
+.ultimo {
+    text-align: center;
+}
+
+.laranja {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+.busan-italic {
+    font-style: italic;
+    margin: 24px 0px 40px;
+    color: #333333;
+    text-align: center;
+    height: 37px;
+}
+
+.bom-para {
+    font-weight: bold;
+}
+
+.history {
+    color: #0C51A7;
+    font-weight: bold;
+    margin-bottom: 48px;
+    padding: 0px;
+}
+
+.purple {
+    color: #591B98;
+}
+
+.pink {
+    color: #E5245E;
+}
+
+.orange {
+   color: #E95E10; 
+}
+
+.listagem {
+    font-weight: bold;
+}
+
+.descubra-destinos {
+    margin-bottom: 64px;
+}
+
+footer {
+    color: #333333;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+    margin: 0px;
+}
